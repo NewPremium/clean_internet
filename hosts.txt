@@ -6,10 +6,10 @@
 127.0.0.1  localhost
 
 # 위키트리
-127.0.0.1  www.wikitree.co.kr
+https://newpremium.github.io/clean_internet/index.html  www.wikitree.co.kr
 
 # 인사이트
-127.0.0.1  insight.co.kr
+https://newpremium.github.io/clean_internet/index.html  insight.co.kr
 
 # 디스패치
-127.0.0.1  www.dispatch.co.kr
+https://newpremium.github.io/clean_internet/index.html  www.dispatch.co.kr
