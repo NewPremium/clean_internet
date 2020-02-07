@@ -10,3 +10,6 @@
 
 # 인사이트
 127.0.0.1  insight.co.kr
+
+# 디스패치
+127.0.0.1  www.dispatch.co.kr
