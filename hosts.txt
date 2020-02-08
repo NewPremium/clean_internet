@@ -6,11 +6,11 @@
 127.0.0.1  localhost
 
 # 위키트리
-127.0.0.1  www.wikitree.co.kr
+119.63.246.253  www.wikitree.co.kr
 
 # 인사이트
-127.0.0.1  insight.co.kr
-127.0.0.1  m.insight.co.kr
+119.63.246.253  insight.co.kr
+119.63.246.253  m.insight.co.kr
 
 # 디스패치
-127.0.0.1  www.dispatch.co.kr
+119.63.246.253  www.dispatch.co.kr
