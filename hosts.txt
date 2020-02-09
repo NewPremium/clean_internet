@@ -1,5 +1,5 @@
 #
-# 유사언론 꺼져
+# 유사언론 껒
 # https://newpremium.github.io/clean_internet/hosts.txt
 #
 
