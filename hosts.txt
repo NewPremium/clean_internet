@@ -10,6 +10,7 @@
 
 # 인사이트
 119.63.246.253  insight.co.kr
+119.63.246.253  www.insight.co.kr
 119.63.246.253  m.insight.co.kr
 
 # 디스패치
